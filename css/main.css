@@ -8,9 +8,7 @@ body {
     border-radius: 10px;
     box-shadow: 5 px 5px 10px gray;
 }
-
-
-#transactions-area {
+#transaction-area{
     display: none;
 }
 .status{
@@ -29,13 +27,4 @@ body {
 
 .blance {
     background-color: orange;
-}
-
-.status {
-    margin: 0 20px;
-    color: white;
-    padding: 20px;
-    border-radius: 10px;
-
-
 }
