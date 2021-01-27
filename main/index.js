@@ -12,4 +12,4 @@ const depositBtn = document.getElementById("addDeposit")
 depositBtn.addEventListener("click", function () {
 console.log("clicked");
 
-}
+})
